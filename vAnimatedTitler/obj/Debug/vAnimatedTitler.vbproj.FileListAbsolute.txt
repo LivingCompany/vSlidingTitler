@@ -1,0 +1,8 @@
+c:\users\canal 30\source\repos\vAnimatedTitler\vAnimatedTitler\obj\Debug\vAnimatedTitler.vbprojAssemblyReference.cache
+c:\users\canal 30\source\repos\vAnimatedTitler\vAnimatedTitler\obj\Debug\vAnimatedTitler.baml
+c:\users\canal 30\source\repos\vAnimatedTitler\vAnimatedTitler\obj\Debug\vAnimatedTitler.g.vb
+c:\users\canal 30\source\repos\vAnimatedTitler\vAnimatedTitler\obj\Debug\vAnimatedTitler_MarkupCompile.cache
+c:\users\canal 30\source\repos\vAnimatedTitler\vAnimatedTitler\obj\Debug\vAnimatedTitler.g.resources
+c:\users\canal 30\source\repos\vAnimatedTitler\vAnimatedTitler\obj\Debug\vAnimatedTitler.Resources.resources
+c:\users\canal 30\source\repos\vAnimatedTitler\vAnimatedTitler\obj\Debug\vAnimatedTitler.vbproj.GenerateResource.cache
+c:\users\canal 30\source\repos\vAnimatedTitler\vAnimatedTitler\obj\Debug\vAnimatedTitler.vbproj.CoreCompileInputs.cache
